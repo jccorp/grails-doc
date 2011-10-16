@@ -8,7 +8,7 @@ Hasta aqui a travez de la documentacion la convencion usada para las URLs ha sid
 The @UrlMappings@ class contains a single property called @mappings@ that has been assigned a block of code:
 {hidden}
 
-La clase @UrlMappings@ contiene una unica propieda llamada @mappings@ que ha sido asignada a un bloque de codigo:
+La clase @UrlMappings@ contiene una unica propiedad llamada @mappings@ que ha sido asignada a un bloque de codigo:
 
 {code:java}
 class UrlMappings {
