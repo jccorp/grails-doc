@@ -1,4 +1,6 @@
+{hidden}
 URL mappings can also be configured to map based on the HTTP method (GET, POST, PUT or DELETE). This is very useful for RESTful APIs and for restricting mappings based on HTTP method.
+{hidden}
 
 As an example the following mappings provide a RESTful API URL mappings for the @ProductController@:
 
